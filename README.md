@@ -1,6 +1,7 @@
-# PrimeiroBDD
 
-- Iniciando meus estudos na área de testes de software. 
-- Meu primeiro BDD e minha primeira execução de cenários de testes. 
+🧪 Primeiro Teste Manual
 
-Site utilizado para estudo : http://165.227.93.41/lojinha-web/?error=Acesse%20a%20lojinha
+- Iniciei meus estudos na área de testes de software com foco em testes manuais.
+- Realizei meu primeiro BDD (Behavior Driven Development), criando e executando cenários de teste utilizando a linguagem Gherkin.
+- Os testes foram aplicados no site de estudo: http://165.227.93.41/lojinha-web, explorando suas funcionalidades e validando comportamentos esperados.
+
