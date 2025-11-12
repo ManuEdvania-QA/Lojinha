@@ -1,5 +1,5 @@
 
-🧪 Primeiro Teste Manual
+🧪 *Primeiro Teste Manual*
 
 - Iniciei meus estudos na área de testes de software com foco em testes manuais.
 - Realizei meu primeiro BDD (Behavior Driven Development), criando e executando cenários de teste utilizando a linguagem Gherkin.
